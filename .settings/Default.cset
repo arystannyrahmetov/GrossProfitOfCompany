@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "settings": {
+    "ql-temp-table-index": {
+      "enabled": false
+    }
+  }
+}

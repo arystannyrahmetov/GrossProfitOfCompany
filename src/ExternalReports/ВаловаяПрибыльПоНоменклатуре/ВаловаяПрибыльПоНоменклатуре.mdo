@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalReport xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d093167a-010f-41f3-878f-082581737ea0">
+  <producedTypes>
+    <objectType typeId="53498b8b-5197-4c10-b9b4-aa45e9f18cac" valueTypeId="dc96af79-aa5d-4b1c-a210-58e969390432"/>
+  </producedTypes>
+  <name>ВаловаяПрибыльПоНоменклатуре</name>
+  <synonym>
+    <key>ru</key>
+    <value>Валовая прибыль по номенклатуре</value>
+  </synonym>
+  <containedObjects classId="e41aff26-25cf-4bb6-b6c1-3f478a75f374" objectId="910b9dd6-149b-4542-8ecd-503fd9b87105"/>
+  <mainDataCompositionSchema>ExternalReport.ВаловаяПрибыльПоНоменклатуре.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="343d3a63-8554-432d-9e69-a9eba27e7d5a">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:ExternalReport>
